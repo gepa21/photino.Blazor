@@ -18,7 +18,7 @@
 
   <Target Name="SetPackageVersion" DependsOnTargets="Build">
     <PropertyGroup>
-      <PackageVersion>$(Version)</PackageVersion>
+      <PackageVersion>2.3.99900</PackageVersion>
     </PropertyGroup>
   </Target>
 
